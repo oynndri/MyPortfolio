@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4f46e5&height=250&section=header&text=Oynndrila%20Singh%20Purkayestha&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Quality%20Assurance%20Engineer&descAlignY=55&descAlign=62" alt="Header Banner" />
+  <img src="https://raw.githubusercontent.com/oynndri/MyPortfolio/main/public/profile.jpeg" alt="Oynndrila Singh Purkayestha" width="150" height="150" style="border-radius: 50%; object-fit: cover; border: 4px solid #4f46e5; margin-bottom: 10px;" />
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4f46e5&height=200&section=header&text=Oynndrila%20Singh%20Purkayestha&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Quality%20Assurance%20Engineer&descAlignY=55&descAlign=62" alt="Header Banner" />
   
   <br/>
   
