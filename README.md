@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/oynndri/MyPortfolio/main/public/profile.jpeg" alt="Oynndrila Singh Purkayestha" width="150" height="150" style="border-radius: 50%; object-fit: cover; border: 4px solid #4f46e5; margin-bottom: 10px;" />
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4f46e5&height=200&section=header&text=Oynndrila%20Singh%20Purkayestha&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Quality%20Assurance%20Engineer&descAlignY=55&descAlign=62" alt="Header Banner" />
-  
-  <br/>
+  <h1>Oynndrila Singh Purkayestha</h1>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Software+Quality+Assurance+Engineer;Test+Automation+Enthusiast;Ensuring+Bug-Free+Software+Deliveries" alt="Typing SVG" />
