@@ -10,13 +10,7 @@
   </a>
 </div>
 
-<p align="center">
-  <a href="#about">About</a> •
-  <a href="#tech-stack">Tech Stack</a> •
-  <a href="#projects">Projects</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#contact">Contact</a>
-</p>
+
 
 ---
 
